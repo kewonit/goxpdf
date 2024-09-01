@@ -1,4 +1,4 @@
-# goxpdf
+# goxpng
 
 ## Simply bulk generator certificate, using a base template and a csv file with names within it, written in golang!
 
